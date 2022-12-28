@@ -1,2 +1,27 @@
+
+  238  git remote add origin https://github.com/usami0jp/training.git
+  239  git remote -v
+  240  ls
+  241  vi ../token
+  242  git push -u origin master
+  243  git push origin main
+  244  git push -u origin main
+  245  ls
+  246  git status
+  247  git push -u origin master
+  248  git push -u origin main
+  249  git add
+  250  git add .
+  251  git commit .
+  252  git push
+  253  git status
+  254  git remote -v
+  255  git add -all
+  256  git add --all
+  257  git commit -m "５回目"
+  258  git push origin main
+  259  history
+
 git@github.com:usami0jp/training.git
+
 https://github.com/usami0jp/training.git
