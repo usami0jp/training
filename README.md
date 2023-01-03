@@ -12,3 +12,4 @@ Execution
 
 
 python main.py
+![2-age00](https://user-images.githubusercontent.com/35183817/210334278-c183db53-bfdf-4456-803b-e1feaf43dad9.jpg)
