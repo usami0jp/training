@@ -16,6 +16,6 @@ python main.py
 ![p1](https://user-images.githubusercontent.com/35183817/210316696-76631fc0-f325-41f2-80e4-c24d5ef52016.jpg)
 
 
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/35183817/210316696-76631fc0-f325-41f2-80e4-c24d5ef52016.jpg" alt="altテキスト" width="100px">
 </p>
