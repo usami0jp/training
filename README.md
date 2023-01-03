@@ -5,7 +5,11 @@
 
 ```
 pip install -r requirements.txt
+
 ```
+Execution
+
+python main.py
 
 [![AI アインシュタイン00555](https://user-images.githubusercontent.com/35183817/210346699-4df2ecae-fa04-4d8e-9357-852f75537b95.jpg)](https://youtu.be/0S6FADVNrPA)
 
@@ -21,7 +25,6 @@ pip install -r requirements.txt
 
 
 
-[![2-age010](https://user-images.githubusercontent.com/35183817/210348616-7b851d7c-f4d9-47ad-b79f-e28554034018.jpg)[(https://youtu.be/wXk58Nwe0Pc)
 
 
 
