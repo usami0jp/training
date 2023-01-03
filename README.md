@@ -21,10 +21,6 @@ python main.py
 [![AI アインシュタイン003333](https://user-images.githubusercontent.com/35183817/210347141-95c7eacc-ed83-4eee-9bfc-b8ddf364b2ce.jpg)](https://youtu.be/Vc7zNufa0us)
 
 
-[![AI アインシュタイン00](https://user-images.githubusercontent.com/35183817/210347535-b45774a0-2822-4270-9af9-797f881d9dbe.jpg)](https://youtu.be/89voF9tQ4hc)
-
-
-
 
 
 
