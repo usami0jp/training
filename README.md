@@ -9,8 +9,10 @@ pip install -r requirements.txt
 
 Execution
 
-[![chat](img src="https://user-images.githubusercontent.com/35183817/210315276-33e4551f-665a-4c3b-be63-99555cde059c.png")](https://youtu.be/S3n_Oz5TcEw)
+[![chat]
 
+<p align="left><(img src="https://user-images.githubusercontent.com/35183817/210315276-33e4551f-665a-4c3b-be63-99555cde059c.png" alt="test" width="300px">(https://youtu.be/S3n_Oz5TcEw)
+</p>
 python main.py
 
 
