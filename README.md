@@ -11,7 +11,7 @@ Execution of the program
 
 % python main.py
 
-<span style="font-size: 50%>
+
 
 [![AI アインシュタイン00555](https://user-images.githubusercontent.com/35183817/210346699-4df2ecae-fa04-4d8e-9357-852f75537b95.jpg)](https://youtu.be/0S6FADVNrPA) 
 
@@ -57,4 +57,4 @@ Video 7. Just a demo of StyleGAN-3.
 Video 8. The left is an example of Yolov5. The right is an example of Yolov4.
 
 <br><br>
-             </span>
+         
