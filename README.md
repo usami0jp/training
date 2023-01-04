@@ -32,7 +32,7 @@ Video 3. 3D photorealistic human faces created by a StyleGAN-like network We cre
 <br>
 
 Video 4. The multiple tasks are completed by using two computers. The computer at right captures an external scene. This computer processes Yolov5 object detection. The image is transferred to the left PC. The left PC performs the Image2text routine, which gives sentences that explain the video image.
-<br>
+<br><br>
 
 [![AI アインシュタイン00](https://user-images.githubusercontent.com/35183817/210348956-f2cdb814-139e-46fc-b68f-bd9130cf68b5.jpg)] 
 
