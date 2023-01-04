@@ -43,9 +43,9 @@ Video 5. Execution of the demo of Avatarify (https://avatarify.ai/).
 [![2-age333](https://user-images.githubusercontent.com/35183817/210472067-9b344fb2-1adf-4bd1-8a41-016ff8f93d07.jpg)](https://youtu.be/wXk58Nwe0Pc) 
 
 Video 6. An example of running a program to guess gender and age. Fortunately, the age is estimated to be very young. By increasing the resolution and adding information such as the degree of aging of the skin, it may be possible to estimate the age more accurately. 
-<br><br>
+<br><br><br>
 [![Stylegan3 demo (1)_108](https://user-images.githubusercontent.com/35183817/210472376-1f98750f-3a58-419d-be90-8a664f4f79a7.jpg)](https://youtu.be/USTAx1uzNSM) 
-<br><br>
+<br>
 
 Video 7. Just a demo of StyleGAN-3.
 <br><br>
