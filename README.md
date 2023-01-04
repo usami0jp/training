@@ -14,7 +14,7 @@ python main.py
 [![AI アインシュタイン00555](https://user-images.githubusercontent.com/35183817/210346699-4df2ecae-fa04-4d8e-9357-852f75537b95.jpg)](https://youtu.be/0S6FADVNrPA) 
 
 Video 1. This video shows a demonstration of our program. Human voice inquiries are answered by our system. This version uses CdQA (Closed Domain Question and Answering, https://github.com/cdqa-suite/cdQA). At the same time, the system recognizes objects through the video camera, which is performed by Yolov5. 
-<br>
+<br><br>
 
 
 
