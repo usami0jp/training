@@ -32,7 +32,7 @@ Video 3. 3D photorealistic human faces created by a StyleGAN-like network We cre
 <br><br>
 
 Video 4. The multiple tasks are completed by using two computers. The computer at right captures an external scene. This computer processes Yolov5 object detection. The image is transferred to the left PC. The left PC performs the Image2text routine, which gives sentences that explain the video image.
-<br><br>
+<br>
 
 [![AI アインシュタイン00](https://user-images.githubusercontent.com/35183817/210348956-f2cdb814-139e-46fc-b68f-bd9130cf68b5.jpg)] 
 
@@ -45,6 +45,7 @@ Video 5. Execution of the demo of Avatarify (https://avatarify.ai/).
 Video 6. An example of running a program to guess gender and age. Fortunately, the age is estimated to be very young. By increasing the resolution and adding information such as the degree of aging of the skin, it may be possible to estimate the age more accurately. 
 <br><br>
 [![Stylegan3 demo (1)_108](https://user-images.githubusercontent.com/35183817/210472376-1f98750f-3a58-419d-be90-8a664f4f79a7.jpg)](https://youtu.be/USTAx1uzNSM) 
+<br><br>
 
 Video 7. Just a demo of StyleGAN-3.
 <br><br>
