@@ -63,7 +63,7 @@ Video 8. The left is an example of Yolov5. The right is an example of Yolov4.
 
 [![３３00](https://user-images.githubusercontent.com/35183817/210542378-af423bc1-96d6-4d69-ada9-55e9da84ec4e.jpg)](https://youtube.com/shorts/mZnlxzJLjpY?feature=share) 
 <br><br>
-[![StyleGan3](https://user-images.githubusercontent.com/35183817/210542577-0df1a374-155b-4001-81ce-92b47c2daa14.jpg)](https://youtube.com/shorts/mZnlxzJLjpY?feature=share) 
+[![StyleGan3](https://user-images.githubusercontent.com/35183817/210542577-0df1a374-155b-4001-81ce-92b47c2daa14.jpg)](https://youtu.be/mu8mHpxejqc) 
 <br><br>
 
 
