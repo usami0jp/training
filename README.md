@@ -14,7 +14,6 @@ Execution of the program
 
 
 [![AI アインシュタイン00555](https://user-images.githubusercontent.com/35183817/210346699-4df2ecae-fa04-4d8e-9357-852f75537b95.jpg)](https://youtu.be/0S6FADVNrPA) 
-
 Video 1. This video shows a demonstration of our program. Human voice inquiries are answered by our system. This version uses CdQA (Closed Domain Question and Answering, https://github.com/cdqa-suite/cdQA). At the same time, the system recognizes objects through the video camera, which is performed by Yolov5. 
 <br><br>
 
@@ -59,11 +58,14 @@ Video 8. The left is an example of Yolov5. The right is an example of Yolov4.
 <br>
          
 [![colorize36](https://user-images.githubusercontent.com/35183817/210542211-c737d2e4-ebc1-4fe6-8d2c-d2b35ad5342f.jpg)](https://youtu.be/1sMjdlQmcKY) 
+Video 9. Colorization of black and white images. The right is the color image of the answer. The picture on the right is black and white, and the trained network is colorized on the left.
 <br><br>
 
 [![３３00](https://user-images.githubusercontent.com/35183817/210542378-af423bc1-96d6-4d69-ada9-55e9da84ec4e.jpg)](https://youtube.com/shorts/mZnlxzJLjpY?feature=share) 
+Video 10. I stimulated each layer of the neural circuit layer by layer to see what the final picture would look like.
 <br><br>
 [![StyleGan3](https://user-images.githubusercontent.com/35183817/210542577-0df1a374-155b-4001-81ce-92b47c2daa14.jpg)](https://youtu.be/mu8mHpxejqc) 
+Just a demonstration of Style-GAN3, visualizer.py
 <br><br>
 
 
