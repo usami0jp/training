@@ -16,6 +16,10 @@ python main.py
 [![AI アインシュタイン444](https://user-images.githubusercontent.com/35183817/210347344-ff3eef03-5bd9-429b-ac6e-3a1957f96cf7.jpg)](https://youtu.be/S3n_Oz5TcEw)
 
 
+[![Usami Lab AI24](https://user-images.githubusercontent.com/35183817/210472265-7df98348-93b9-4cd6-8171-30b562cd7144.jpg)](https://youtu.be/LMxE5H3w8Ws)
+
+
+
 
 
 [![AI アインシュタイン003333](https://user-images.githubusercontent.com/35183817/210347141-95c7eacc-ed83-4eee-9bfc-b8ddf364b2ce.jpg)](https://youtu.be/Vc7zNufa0us)
