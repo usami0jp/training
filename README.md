@@ -24,9 +24,8 @@ python main.py
 
 
 
+![2-age333](https://user-images.githubusercontent.com/35183817/210472067-9b344fb2-1adf-4bd1-8a41-016ff8f93d07.jpg)
 
 
-[![2-age00](https://user-images.githubusercontent.com/35183817/210334278-c183db53-bfdf-4456-803b-e1feaf43dad9.jpg)](https://youtu.be/wXk58Nwe0Pc)
-https://youtu.be/xXg7LH6Yk1g)
 
 [![v3 v5 比較00](https://user-images.githubusercontent.com/35183817/210347778-e036cbaf-729f-49bf-9902-c1e08dabb1ab.jpg)](https://youtu.be/Ix1Ajt3yG0w)
