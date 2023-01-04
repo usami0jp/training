@@ -12,7 +12,7 @@ Execution of the program
 % python main.py
 
 
-
+<br>
 [![AI アインシュタイン00555](https://user-images.githubusercontent.com/35183817/210346699-4df2ecae-fa04-4d8e-9357-852f75537b95.jpg)](https://youtu.be/0S6FADVNrPA) 
 
 Video 1. This video shows a demonstration of our program. Human voice inquiries are answered by our system. This version uses CdQA (Closed Domain Question and Answering, https://github.com/cdqa-suite/cdQA). At the same time, the system recognizes objects through the video camera, which is performed by Yolov5. 
@@ -36,7 +36,7 @@ Video 3. 3D photorealistic human faces created by a StyleGAN-like network We cre
 Video 4. The multiple tasks are completed by using two computers. The computer at right captures an external scene. This computer processes Yolov5 object detection. The image is transferred to the left PC. The left PC performs the Image2text routine, which gives sentences that explain the video image.
 <br><br>
 
-[![AI アインシュタイン00](https://user-images.githubusercontent.com/35183817/210348956-f2cdb814-139e-46fc-b68f-bd9130cf68b5.jpg)] 
+[![AI アインシュタイン00](https://user-images.githubusercontent.com/35183817/210348956-f2cdb814-139e-46fc-b68f-bd9130cf68b5.jpg)] (https://youtu.be/89voF9tQ4hc) 
 
 
 Video 5. Execution of the demo of Avatarify (https://avatarify.ai/).
