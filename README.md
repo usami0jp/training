@@ -56,7 +56,7 @@ Video 7. Just a demo of StyleGAN-3.
 
 Video 8. The left is an example of Yolov5. The right is an example of Yolov4.
 
-<br><br>
+<br>
          
 [![colorize36](https://user-images.githubusercontent.com/35183817/210542211-c737d2e4-ebc1-4fe6-8d2c-d2b35ad5342f.jpg)](https://youtu.be/1sMjdlQmcKY) 
 <br><br>
